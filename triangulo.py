@@ -1,4 +1,4 @@
-'''a = eval(input('Digite o lado A:'))
+a = eval(input('Digite o lado A:'))
 b = eval(input('Digite o lado B:'))
 c = eval(input('Digite o lado C:'))
 
@@ -22,11 +22,4 @@ if (maior_lado<a+b+c-maior_lado):
         print('Triângulo Isósceles')
 else:
     print('Os lados não formam um triângulo')
-    '''
-temp = eval(input('Digite a temperatura:'))
-if temp>86:
-    print('Quente')
-elif temp>32:
-    print('Frio')
-else:
-    print('Congelando')        
+   
