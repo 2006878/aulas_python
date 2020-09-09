@@ -12,7 +12,7 @@ def juros(preco,juros):
 #print (f(4)) #imprime a função de 4
 #print (f(10))
 valor = input('Digite o valor a ser calculado: ')
-juro = input('Digite a taxa de juros')
+juro = input('Digite a taxa de juros: ')
 valor=eval(valor)
 juro=eval(juro)
 
